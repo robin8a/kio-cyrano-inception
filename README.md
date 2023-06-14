@@ -13,6 +13,7 @@
 - https://devcenter.heroku.com/articles/getting-started-with-rails7
 - https://medium.com/@zulhhandyplast/how-to-create-a-non-expiring-heroku-token-for-daemons-ops-work-da08346286c0
 - https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-ruby-on-rails-application-on-ubuntu-20-04
+- https://medium.com/swlh/build-your-first-rest-api-with-django-rest-framework-e394e39a482c
 
 kio-cyrano-app
 
